@@ -1,0 +1,3 @@
+DROP DATABASE sma;
+CREATE DATABASE sma;
+USE sma;

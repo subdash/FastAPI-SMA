@@ -1,0 +1,4 @@
+test.py
+src/.env
+keystuff
+*__pycache__/*
